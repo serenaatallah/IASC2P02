@@ -8,4 +8,4 @@ My bio goes here
 
 ## Blog post
 
-First sentence of blog post goes here... [continue reading] (blog)
+First sentence of blog post goes here... [continue reading](blog)
