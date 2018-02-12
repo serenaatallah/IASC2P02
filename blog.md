@@ -4,3 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel lacinia mi.
 
 <iframe style='width: 408px; height: 285px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=87bb5b3075e6eb364a38f717c61cdf6e'></iframe>
  
+![](images/links.png)
