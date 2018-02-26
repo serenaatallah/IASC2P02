@@ -5,3 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel lacinia mi.
 <iframe style='width: 408px; height: 285px;' src='//voyant-tools.org/tool/CollocatesGraph/?mode=corpus&corpus=87bb5b3075e6eb364a38f717c61cdf6e'></iframe>
  
 ![](images/links.png)
+
+[d3 visual](d3.index.html)
+
+<iframe style="width: 1024px; height: 768px;" src="http://serenaatallah.github.io/IASC2P02/d3/index.html"></iframe>
