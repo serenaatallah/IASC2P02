@@ -14,7 +14,7 @@ Though not discussed in the first chapter, the practice of “deformance” is s
 In sum, I trust that the practice of literary criticism and text analysis will open doors to new understanding and interpretation. In an article titled “The Materialities of Close Reading”, David Ciccoricco makes a fitting statement regarding literacy in the digital humanities; “Whether our computers augment the texts we write (via word search, spell check, or thesaurus) or, in the strong sense, we augment the texts that they write (via programs that enable dynamic generation of poetic or narrative texts), we conspicuously partake in such cybernetic reading and writing practices. In addition, when our texts are works of digital literature, works written for and read on a computer screen that would lose something of their aesthetic and semiotic function if removed from their medium,  we need to partake in these interpretive processes in new ways.”, (Ciccoricco). What he is suggesting, is since we are taking part in the reading and augmented texts, we might as well be getting the most we can out of it by looking at the material in different ways. With this, there is no question it’s important to look at literacy in the DH at multiple angles, to take it apart and reconstruct it, because there is a lot more value to these readings than we can see at a first glance. With the help of the computer, text analysis tools, and deformance, the reader has something new to digest no matter how many times they read it.
 
 
-Works Cited
+## Works Cited
 
 Mcgann, Jerome. “Deformance and Interpretation (with Lisa Samuels).” Radiant Textuality, 2001, pp. 105–135., doi:10.1007/978-1-137-10738-1_5.
 
