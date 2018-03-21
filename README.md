@@ -11,4 +11,4 @@ I am a very tired person, I believe I have this magical ability to sleep wheneve
 As per the course outline, we were only exposed to the preconditions and chapter one of this reading...[continue reading](publishblogpost.md)
 
 ## Solo Presentation
-[click here]()
+[click here](https://serenaatallah.github.io/IASC2P02/reveal/)
